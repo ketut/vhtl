@@ -1,5 +1,6 @@
-[
-   {
+{
+   "hotel" : [
+         {
       "id":1,
       "provinsi":"Bali",
       "kabupaten":"Klungkung",
@@ -35,4 +36,12 @@
       "twitter":"twitdulddang",
       "website":"https://dddulangpermai.com"
    }
+],
+[
+   "users" : {
+      "id":"root",
+      "login":"Waow",
+   }
 ]
+
+}
