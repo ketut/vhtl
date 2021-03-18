@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "provinsi":"Bali",
+    "kabupaten":"Klungkung",
+    "kecamatan":"Nusa Penida",
+    "desa":"Batu Kandik",
+    "nomor_sbr":"101",
+    "id_wilkerstat":"djlayre",
+    "nama_komersial": "Hotel Dulang Permai",
+    "nama_usaha":"PT. Dulang",
+    "jalan":"Jl. Delem No. 1",
+    "kodepos":"51001",
+    "telepon":"0811111001",
+    "email": "admin@dulang.com",
+    "facebook":"ihwowdulang",
+    "twitter":"twitdulang",
+    "website":"https://dulangpermai.com"
+  },
+]
