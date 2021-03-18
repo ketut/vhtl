@@ -1,6 +1,5 @@
 [
-  {
-    "id":1,
+  {"id":1,
     "provinsi":"Bali",
     "kabupaten":"Klungkung",
     "kecamatan":"Nusa Penida",
@@ -15,6 +14,5 @@
     "email": "admin@dulang.com",
     "facebook":"ihwowdulang",
     "twitter":"twitdulang",
-    "website":"https://dulangpermai.com",
-  },
+    "website":"https://dulangpermai.com"}
 ]
