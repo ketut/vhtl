@@ -37,8 +37,8 @@
          "website":"https://dddulangpermai.com"
       }
    ],
-   [
-      "users":{
+   "users" : [
+      {
          "id":"root",
          "login":"Waow"
       }
