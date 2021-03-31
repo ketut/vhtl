@@ -2,10 +2,10 @@
    "hotel":[
       {
          "id": 1,
-         "provinsi":"Bali",
-         "kabupaten":"Klungkung",
-         "kecamatan":"Nusa Penida",
-         "desa":"Batu Kandik",
+         "nama_prov":"Bali",
+         "nama_kab":"Klungkung",
+         "nama_kec":"Nusa Penida",
+         "nama_desa":"Batu Kandik",
          "nomor_sbr":"101",
          "id_wilkerstat":"djlayre",
          "nama_komersial":"Hotel Dulang Permai",
